@@ -1,4 +1,7 @@
-# bahijb.github.io
-#Bmdahdal@my.waketech.edu
-This is school account and it will hold assignmnts for CTI110#
-
+# About Me#
+I'm  returning student at Waketech, eager to finish my degree and expand my skill.
+##My Intersts ##
+I enjoy playing and watching soccer games.
+## Web Sites I recommend ## 
+[Fifa](www.fifa.com) - You can find all information about Soccer game and tournemnats !
+[Netcad](netcad.com) - Netcad is a part of Cisco acadmey, helping the student enter the networking world!
